@@ -12,3 +12,5 @@ I am a detail-oriented full-stack developer specializing in crafting flexible, s
 - 📲Node.js
 - ✉️Express.js
 - 🧾Prisma
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klope3)](https://github.com/anuraghazra/github-readme-stats)

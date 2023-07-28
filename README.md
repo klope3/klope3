@@ -14,6 +14,20 @@ I am a detail-oriented software developer specializing in crafting flexible, sca
   <li>Express.js</li>
   <li>Prisma</li>
 </ul>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    - HTML
+    - CSS
+    - JavaScript
+    - TypeScript
+  </div>
+  <div style="flex: 1;">
+    - React.js
+    - Node.js
+    - Express.js
+    - Prisma
+  </div>
+</div>
 
 - 🔭 I’m currently working on this page. 
 
